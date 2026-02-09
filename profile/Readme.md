@@ -62,13 +62,20 @@ I'm a passionate **Data Science fresher** with hands-on experience in building m
 
 ---
 
-## 📊 GitHub Statistics
+# GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-alt1807&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-alt1807&layout=compact&theme=dark)
 
 ---
 
-## 🎯 My Learning Path
+🧠 My Learning Path
+
+🌸 My Learning Path
+
+- 🌱 Currently learning: Data Analytics, Machine Learning, Deep Learning (CNN), NLP  
+- 🧠 Skills: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Basic EDA  
+- 🎯 Goals: Build real-world ML & data projects, crack a Data Analyst / ML Engineer role, improve problem-solving skills  
+- 💡 Interests: AI & Machine Learning, Data-driven decision making, Tech content creation  
+- 🔗 Portfolio: https://github.com/Ganesh-alt1807
+
