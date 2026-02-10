@@ -71,7 +71,8 @@ Currently leveling up my data skills and actively hunting for entry-level Data A
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=vue-dark&hide_border=true
+" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-alt1807&theme=vue-dark&hide_border=true" />
 </p>
 
