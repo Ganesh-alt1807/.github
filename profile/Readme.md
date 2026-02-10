@@ -70,7 +70,8 @@ Currently leveling up my data skills and actively hunting for entry-level Data A
 
 # GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh-alt1807&show_icons=true&theme=vue-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-alt1807&theme=vue-dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-alt1807&layout=compact&theme=dark)
 
 ---
