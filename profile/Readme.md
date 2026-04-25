@@ -5,7 +5,7 @@
   </h1>
   
   <p>
-    <strong>Data Scientist | Machine Learning Enthusiast | Deep Learning Explorer</strong>
+    <strong>Aspiring Data Analyst | Python | SQL | Power BI | Data Science Enthusiast</strong>
   </p>
 
   <p>
